@@ -41,13 +41,9 @@ Focused on Computer Vision, Machine Learning systems, and backend development.
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritam-khadda&theme=nord_dark" alt="GitHub Stats Summary" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritam-khadda&theme=nord_dark" alt="GitHub Stats Summary" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritam-khadda&theme=nord&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=pritam-khadda&show_icons=true&theme=nord&hide_border=true" alt="GitHub Overall Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pritam-khadda&show_icons=true&theme=nord&hide_border=true" alt="Pritam's GitHub Stats" width="85%" />
 </p>
