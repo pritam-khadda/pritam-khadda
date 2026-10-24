@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./Pritam Khadda Purple Wave Banner.png" width="100%" alt="Pritam Khadda AI/ML Developer Banner" />
+  <img src="./banner.png" width="100%" alt="Pritam Khadda - AI/ML Developer Banner" />
 
   <h1>👋 Hi, I'm Pritam Khadda</h1>
   <h3>💜 Aspiring Software Developer | AI/ML Enthusiast</h3>
@@ -34,14 +34,14 @@
 
 ### 🤖 AI, Machine Learning & Computer Vision
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+<img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge" alt="Machine Learning" />
 
 ### 📊 Data Analysis
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 
 ### 🌐 Backend & Developer Tools
 
@@ -68,7 +68,7 @@
       <b>Tech:</b> Python · OpenCV · MediaPipe · Machine Learning
       <br/><br/>
       <a href="https://github.com/pritam-khadda/sign-language-translator">
-        <img src="https://img.shields.io/badge/View_Project-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        <img src="https://img.shields.io/badge/View_Project-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View Sign Language Translator project" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -85,7 +85,7 @@
       <b>Tech:</b> Python · OpenCV · Flask · Face Embeddings
       <br/><br/>
       <a href="https://github.com/pritam-khadda?tab=repositories">
-        <img src="https://img.shields.io/badge/Explore_Repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+        <img src="https://img.shields.io/badge/Explore_Repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
       </a>
     </td>
   </tr>
@@ -99,7 +99,7 @@
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritam-khadda&theme=tokyonight" alt="GitHub Profile Summary" />
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pritam-khadda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-khadda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-khadda&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </div>
 
 ---
@@ -118,7 +118,7 @@
   <a href="https://github.com/pritam-khadda">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
