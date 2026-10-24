@@ -1,13 +1,12 @@
-\<div align="center">
+ <div align="center">
   <img src="./banner.png" width="100%" alt="Pritam Khadda - AI/ML Developer Banner" />
 
   <h1>👋 Hi, I'm Pritam Khadda</h1>
-  <h3>💜 Aspiring Software Developer <img src="https://img.shields.io/badge/AI%2FML-8B5CF6?style=flat-square" alt="AI/ML" /> Computer Vision Developer</h3>
-
+  <h3>💜 Aspiring Software Developer | AI/ML & Computer Vision Enthusiast</h3>
   <p><b>Building Intelligent Applications with Python & Computer Vision 🚀</b></p>
 
   <img src="https://komarev.com/ghpvc/?username=pritam-khadda&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-06B6D4?style=for-the-badge" alt="Focus: Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-06B6D4?style=for-the-badge" alt="Artificial Intelligence" />
 </div>
 
 ---
@@ -17,11 +16,11 @@
 <div align="center">
   <table>
     <tr><td>🎓</td><td>B.Tech student at <b>SIET Nilokheri</b></td></tr>
-    <tr><td>🤖</td><td>Passionate about Artificial Intelligence and Machine Learning</td></tr>
-    <tr><td>👁️</td><td>Exploring Computer Vision, Deep Learning and Neural Networks</td></tr>
-    <tr><td>🐍</td><td>Building projects with Python, OpenCV, Flask and MediaPipe</td></tr>
+    <tr><td>🤖</td><td>Interested in Artificial Intelligence and Machine Learning</td></tr>
+    <tr><td>👁️</td><td>Exploring Computer Vision and Deep Learning</td></tr>
+    <tr><td>🐍</td><td>Building projects using Python, OpenCV, Flask and MediaPipe</td></tr>
     <tr><td>📊</td><td>Learning data analysis with NumPy and Pandas</td></tr>
-    <tr><td>🎯</td><td>Aspiring to become an AI/ML Engineer</td></tr>
+    <tr><td>🎯</td><td>Working toward becoming an AI/ML Engineer</td></tr>
   </table>
 </div>
 
@@ -112,8 +111,8 @@
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritam-khadda&theme=2077" alt="GitHub Profile Summary" />
   <br/><br/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pritam-khadda&show_icons=true&bg_color=0D0B18&title_color=A78BFA&icon_color=06B6D4&text_color=E9D5FF&border_color=6D28D9&hide_border=false" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-khadda&layout=compact&bg_color=0D0B18&title_color=A78BFA&text_color=E9D5FF&border_color=6D28D9&hide_border=false" alt="Most used programming languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pritam-khadda&show_icons=true&bg_color=0D0B18&title_color=A78BFA&icon_color=06B6D4&text_color=E9D5FF&border_color=6D28D9" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-khadda&layout=compact&bg_color=0D0B18&title_color=A78BFA&text_color=E9D5FF&border_color=6D28D9" alt="Most Used Languages" />
 </div>
 
 ---
@@ -132,7 +131,7 @@
   <a href="https://github.com/pritam-khadda">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/pritam-khadda/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
