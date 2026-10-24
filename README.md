@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Pritam Khadda - AI/ML Developer" />
+</div>
 
+<br/>
 <div align="center">
 
 # 👋 Hi, I'm Pritam Khadda
