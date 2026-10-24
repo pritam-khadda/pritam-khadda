@@ -1,9 +1,9 @@
-
+```html
 <div align="center">
   <img src="./banner.png" width="100%" alt="Pritam Khadda - AI/ML Developer Banner" />
 
   <h1>👋 Hi, I'm Pritam Khadda</h1>
-  <h3>💜 Aspiring Software Developer <img src="https://img.shields.io/badge/AI%2FML-8B5CF6?style=flat-square" alt="AI/ML" /> Computer Vision Developer</h3>
+  <h3>💜 Aspiring Software Developer | AI/ML & Computer Vision Developer</h3>
 
   <p><b>Building Intelligent Applications with Python & Computer Vision 🚀</b></p>
 
@@ -130,21 +130,5 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
-  <a href="https://github.com/pritam-khadda">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CODE-6D28D9?style=for-the-badge" alt="Code" />
-  <img src="https://img.shields.io/badge/LEARN-0891B2?style=for-the-badge" alt="Learn" />
-  <img src="https://img.shields.io/badge/INNOVATE-8B5CF6?style=for-the-badge" alt="Innovate" />
-
-  <h3>💜 Keep Learning. Keep Building. Keep Growing.</h3>
-  <i>Turning ideas into intelligent solutions, one project at a time. 🚀</i>
-</div>
+  <a href="https://github.com/pritam-khadda" target="_blank">
+    <img src
