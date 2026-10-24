@@ -1,8 +1,8 @@
+
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Pritam Khadda - AI/ML Developer" />
+  <img src="./Pritam%20Khadda%20Purple%20Wave%20Banner.png" width="100%" alt="Pritam Khadda - AI/ML Developer" />
 </div>
 
-<br/>
 <div align="center">
 
 # 👋 Hi, I'm Pritam Khadda
@@ -11,7 +11,7 @@
 
 **Building Intelligent Applications with Python & Computer Vision 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=pritam-khadda&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=pritam-khadda&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -19,17 +19,13 @@
 
 ## 🧠 About Me
 
-🎓 B.Tech student at **SIET Nilokheri**
-
-🤖 Passionate about Artificial Intelligence & Machine Learning
-
-👁️ Exploring Computer Vision, Deep Learning & Neural Networks
-
-🐍 Working with Python, OpenCV, NumPy and Pandas
-
-🚀 Building practical projects to solve real-world problems
-
-🎯 Aspiring to become an AI/ML Engineer
+- 🎓 B.Tech student at **SIET Nilokheri**
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- 👁️ Exploring Computer Vision, Deep Learning and Neural Networks
+- 🐍 Working with Python, OpenCV, NumPy and Pandas
+- 🧩 Interested in problem-solving, algorithms and backend development
+- 🚀 Building practical projects to solve real-world problems
+- 🎯 Working towards becoming an AI/ML Engineer
 
 ---
 
@@ -37,11 +33,11 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤟 Sign Language Translator
 
-A machine learning project that recognizes hand gestures and converts them into text.
+A computer vision and machine learning project that recognizes hand gestures and converts them into text.
 
 **Tech Stack**
 - Python
@@ -52,11 +48,11 @@ A machine learning project that recognizes hand gestures and converts them into 
 [🔗 View Project](https://github.com/pritam-khadda/sign-language-translator)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 👤 Face Recognition Attendance
 
-A project in development for student face detection, recognition and attendance management.
+A project in development focused on student face detection, face recognition and attendance management.
 
 **Tech Stack**
 - Python
@@ -64,7 +60,7 @@ A project in development for student face detection, recognition and attendance 
 - Flask
 - Face Embeddings
 
-[🔗 View My Repositories](https://github.com/pritam-khadda?tab=repositories)
+[🔗 Explore Repositories](https://github.com/pritam-khadda?tab=repositories)
 
 </td>
 </tr>
@@ -75,13 +71,14 @@ A project in development for student face detection, recognition and attendance 
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,opencv,git,github,vscode" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,c,opencv,git,github,vscode" alt="Tech stack" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=for-the-badge" alt="Computer Vision" />
 </p>
 
 ---
@@ -90,11 +87,11 @@ A project in development for student face detection, recognition and attendance 
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritam-khadda&theme=tokyonight" alt="GitHub profile summary"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritam-khadda&theme=tokyonight" alt="GitHub profile summary" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pritam-khadda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pritam-khadda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-khadda&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-khadda&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
@@ -103,12 +100,12 @@ A project in development for student face detection, recognition and attendance 
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://github.com/pritam-khadda">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <a href="https://github.com/pritam-khadda">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
