@@ -80,84 +80,68 @@
 
 ---
 
+---
+
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-  <p><i>Building intelligent applications with Python, Machine Learning and Computer Vision.</i></p>
-</div>
+<p align="center"><i>Building intelligent applications with Python, Machine Learning and Computer Vision.</i></p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/COMPUTER_VISION-8B5CF6?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
-        <h3>🤟 Sign Language Translator</h3>
-        <p><b>Turn hand gestures into meaningful text.</b></p>
-        <p>A real-time sign language recognition project using hand landmarks and machine learning to translate gestures into text with voice output.</p>
-      </div>
+### 🤟 Sign Language Translator
 
-      **✨ Key Features**
-      - 🤚 Hand landmark detection
-      - 🧠 ML-based gesture classification
-      - 📹 Real-time camera recognition
-      - 🔊 Text-to-speech output
-      - 📜 Prediction history and confidence display
+> **Turn hand gestures into meaningful text.**
 
-      **🛠️ Tech Stack**
+A real-time sign language recognition project that uses hand landmarks and machine learning to translate gestures into text with voice output.
 
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/OpenCV-6D28D9?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/MediaPipe-0891B2?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
-        <img src="https://img.shields.io/badge/Flask-18181B?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-      </div>
+**✨ Key Features**
+- 🤚 Hand landmark detection
+- 🧠 ML-based gesture classification
+- 📹 Real-time camera recognition
+- 🔊 Text-to-speech output
+- 📜 Prediction history and confidence display
 
-      <br/>
+**🛠️ Tech Stack**
 
-      <div align="center">
-        <a href="https://github.com/pritam-khadda/sign-language-translator">
-          <img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Sign Language Translator project" />
-        </a>
-      </div>
-    </td>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenCV-6D28D9?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-0891B2?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Flask-18181B?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
 
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/AI_%26_FACE_RECOGNITION-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="AI and Face Recognition" />
-        <h3>👤 Face Recognition Attendance</h3>
-        <p><b>Smart face recognition for attendance management.</b></p>
-        <p>A project in development that aims to detect and recognize student faces and integrate them into an attendance management workflow.</p>
-      </div>
+<p>
+  <a href="https://github.com/pritam-khadda/sign-language-translator">
+    <img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Sign Language Translator project" />
+  </a>
+</p>
 
-      **✨ Core Components**
-      - 📷 Student face image collection
-      - 👁️ Face detection with OpenCV
-      - 🧬 Face embeddings for recognition
-      - 🌐 Flask-based capture interface
-      - 🗄️ Attendance and database integration in progress
+---
 
-      **🛠️ Tech Stack**
+### 👤 Face Recognition Attendance
 
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/OpenCV-6D28D9?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/Flask-18181B?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/FaceNet-A855F7?style=flat-square" alt="FaceNet" />
-      </div>
+> **Smart face recognition for attendance management.**
 
-      <br/>
+A project in development that aims to detect and recognize student faces and integrate them into an attendance management workflow.
 
-      <div align="center">
-        <a href="https://github.com/pritam-khadda?tab=repositories">
-          <img src="https://img.shields.io/badge/🔍_EXPLORE_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+**✨ Core Components**
+- 📷 Student face image collection
+- 👁️ Face detection with OpenCV
+- 🧬 Face embeddings for recognition
+- 🌐 Flask-based capture interface
+- 🗄️ Attendance and database integration in progress
 
-<div align="center">
-  <img src="https://img.shields.io/badge/BUILDING-INTELLIGENT_SOLUTIONS-6D28D9?style=for-the-badge" alt="Building intelligent solutions" />
-</div>
+**🛠️ Tech Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenCV-6D28D9?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Flask-18181B?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FaceNet-A855F7?style=for-the-badge" alt="FaceNet" />
+</p>
+
+<p>
+  <a href="https://github.com/pritam-khadda?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍_EXPLORE_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</p>
 
 ---
