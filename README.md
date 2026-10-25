@@ -5,14 +5,12 @@
   <h3>💜 Aspiring Software Developer | AI/ML & Computer Vision Enthusiast</h3>
 
   <a href="https://github.com/pritam-khadda">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=Building+Intelligent+Applications;AI%2FML+%26+Computer+Vision;Python+%7C+OpenCV+%7C+MediaPipe;Turning+Ideas+Into+Intelligent+Solutions;Keep+Learning.+Keep+Building." alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=Building+Intelligent+Applications;AI%2FML+%26+Computer+Vision+Enthusiast;Python+%7C+OpenCV+%7C+MediaPipe;Turning+Ideas+Into+Intelligent+Solutions;Keep+Learning.+Keep+Building." alt="Typing animation" />
   </a>
-
   <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=pritam-khadda&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20COMPUTER%20VISION-06B6D4?style=for-the-badge" alt="AI and Computer Vision" />
-
+  <img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-06B6D4?style=for-the-badge" alt="Artificial Intelligence" />
   <br/><br/>
   <i>💭 "Teaching machines to see, one frame at a time."</i>
 </div>
@@ -26,23 +24,23 @@
     <tr><td>🎓</td><td>B.Tech student at <b>SIET Nilokheri</b></td></tr>
     <tr><td>🤖</td><td>Interested in Artificial Intelligence and Machine Learning</td></tr>
     <tr><td>👁️</td><td>Exploring Computer Vision and Deep Learning</td></tr>
-    <tr><td>🐍</td><td>Building projects with Python, OpenCV, Flask and MediaPipe</td></tr>
-    <tr><td>📊</td><td>Learning NumPy, Pandas and data analysis</td></tr>
+    <tr><td>🐍</td><td>Building projects using Python, OpenCV, Flask and MediaPipe</td></tr>
+    <tr><td>📊</td><td>Learning data analysis with NumPy and Pandas</td></tr>
     <tr><td>🎯</td><td>Working toward becoming an AI/ML Engineer</td></tr>
   </table>
 </div>
 
 ---
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center">🎯 What I'm Up To</h2>
 
 <div align="center">
   <table>
-    <tr><td>🔭</td><td><b>Building:</b> Face Recognition Attendance System</td></tr>
-    <tr><td>🤟</td><td><b>Project:</b> Sign Language Translator</td></tr>
-    <tr><td>📚</td><td><b>Learning:</b> Deep Learning, CNNs and model deployment</td></tr>
-    <tr><td>🤝</td><td><b>Open to:</b> AI and Computer Vision collaborations</td></tr>
-    <tr><td>🚀</td><td><b>Goal:</b> Build useful real-world AI applications</td></tr>
+    <tr><td>🔭</td><td><b>Currently building:</b> Face Recognition Attendance System</td></tr>
+    <tr><td>📚</td><td><b>Currently learning:</b> Deep Learning, CNNs and model deployment</td></tr>
+    <tr><td>🤝</td><td><b>Open to:</b> Collaborations on AI / Computer Vision projects</td></tr>
+    <tr><td>🌟</td><td><b>Goal:</b> Ship projects that solve real problems with AI</td></tr>
+    <tr><td>💡</td><td><b>Fun fact:</b> I teach computers to read hand gestures 🤟</td></tr>
   </table>
 </div>
 
@@ -56,7 +54,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </div>
 
-<h3 align="center">🤖 AI, ML & Computer Vision</h3>
+<h3 align="center">🤖 AI, Machine Learning & Computer Vision</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/OpenCV-6D28D9?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/MediaPipe-0891B2?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
@@ -86,35 +84,35 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤟 Sign Language Translator</h3>
-      <p>A computer vision and machine learning project that recognizes hand gestures and converts them into text.</p>
-      <b>Key Features</b>
+      <p>A computer vision and machine learning application that recognizes hand gestures and converts them into text.</p>
+      <h4>✨ Key Features</h4>
       <ul>
         <li>Hand landmark detection</li>
         <li>Gesture classification</li>
         <li>Real-time camera input</li>
         <li>Text output and voice support</li>
       </ul>
-      <b>Tech Stack</b><br/><br/>
+      <p><b>Tech Stack</b></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/OpenCV-6D28D9?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
       <img src="https://img.shields.io/badge/MediaPipe-0891B2?style=flat-square" alt="MediaPipe" />
       <br/><br/>
       <a href="https://github.com/pritam-khadda/sign-language-translator">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Sign Language Translator project" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">👤 Face Recognition Attendance</h3>
       <p>A project in development for student face detection, recognition and attendance management.</p>
-      <b>Components</b>
+      <h4>✨ Components</h4>
       <ul>
         <li>Face detection with OpenCV</li>
         <li>Face embeddings for recognition</li>
         <li>Student image collection</li>
         <li>Flask-based capture interface</li>
-        <li>Attendance integration in progress</li>
+        <li>Attendance management integration</li>
       </ul>
-      <b>Tech Stack</b><br/><br/>
+      <p><b>Tech Stack</b></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/OpenCV-6D28D9?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
       <img src="https://img.shields.io/badge/Flask-18181B?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
@@ -142,7 +140,9 @@
 <h2 align="center">📊 Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritam-khadda&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
+  <a href="https://github.com/pritam-khadda">
+    <img src="https://ghchart.rshah.org/8B5CF6/pritam-khadda" width="100%" alt="GitHub Contribution Calendar" />
+  </a>
 </div>
 
 ---
