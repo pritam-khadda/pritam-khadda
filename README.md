@@ -78,95 +78,86 @@
 
 ---
 
+---
+
 <h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <p><i>Building intelligent applications with Python, Machine Learning and Computer Vision.</i></p>
+</div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤟 Sign Language Translator</h3>
-      <p>A computer vision and machine learning application that recognizes hand gestures and converts them into text.</p>
-      <h4>✨ Key Features</h4>
-      <ul>
-        <li>Hand landmark detection</li>
-        <li>Gesture classification</li>
-        <li>Real-time camera input</li>
-        <li>Text output and voice support</li>
-      </ul>
-      <p><b>Tech Stack</b></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/OpenCV-6D28D9?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/MediaPipe-0891B2?style=flat-square" alt="MediaPipe" />
-      <br/><br/>
-      <a href="https://github.com/pritam-khadda/sign-language-translator">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Sign Language Translator project" />
-      </a>
+      <div align="center">
+        <img src="https://img.shields.io/badge/COMPUTER_VISION-8B5CF6?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+        <h3>🤟 Sign Language Translator</h3>
+        <p><b>Turn hand gestures into meaningful text.</b></p>
+        <p>A real-time sign language recognition project using hand landmarks and machine learning to translate gestures into text with voice output.</p>
+      </div>
+
+      **✨ Key Features**
+      - 🤚 Hand landmark detection
+      - 🧠 ML-based gesture classification
+      - 📹 Real-time camera recognition
+      - 🔊 Text-to-speech output
+      - 📜 Prediction history and confidence display
+
+      **🛠️ Tech Stack**
+
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/OpenCV-6D28D9?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/MediaPipe-0891B2?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
+        <img src="https://img.shields.io/badge/Flask-18181B?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      </div>
+
+      <br/>
+
+      <div align="center">
+        <a href="https://github.com/pritam-khadda/sign-language-translator">
+          <img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Sign Language Translator project" />
+        </a>
+      </div>
     </td>
+
     <td width="50%" valign="top">
-      <h3 align="center">👤 Face Recognition Attendance</h3>
-      <p>A project in development for student face detection, recognition and attendance management.</p>
-      <h4>✨ Components</h4>
-      <ul>
-        <li>Face detection with OpenCV</li>
-        <li>Face embeddings for recognition</li>
-        <li>Student image collection</li>
-        <li>Flask-based capture interface</li>
-        <li>Attendance management integration</li>
-      </ul>
-      <p><b>Tech Stack</b></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/OpenCV-6D28D9?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/Flask-18181B?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-      <br/><br/>
-      <a href="https://github.com/pritam-khadda?tab=repositories">
-        <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-      </a>
+      <div align="center">
+        <img src="https://img.shields.io/badge/AI_%26_FACE_RECOGNITION-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="AI and Face Recognition" />
+        <h3>👤 Face Recognition Attendance</h3>
+        <p><b>Smart face recognition for attendance management.</b></p>
+        <p>A project in development that aims to detect and recognize student faces and integrate them into an attendance management workflow.</p>
+      </div>
+
+      **✨ Core Components**
+      - 📷 Student face image collection
+      - 👁️ Face detection with OpenCV
+      - 🧬 Face embeddings for recognition
+      - 🌐 Flask-based capture interface
+      - 🗄️ Attendance and database integration in progress
+
+      **🛠️ Tech Stack**
+
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/OpenCV-6D28D9?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/Flask-18181B?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/FaceNet-A855F7?style=flat-square" alt="FaceNet" />
+      </div>
+
+      <br/>
+
+      <div align="center">
+        <a href="https://github.com/pritam-khadda?tab=repositories">
+          <img src="https://img.shields.io/badge/🔍_EXPLORE_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
 
----
-
-<h2 align="center">📈 GitHub Statistics</h2>
-
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritam-khadda&theme=2077" alt="GitHub Profile Summary" />
-  <br/><br/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pritam-khadda&show_icons=true&bg_color=0D0B18&title_color=A78BFA&icon_color=06B6D4&text_color=E9D5FF&border_color=6D28D9" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-khadda&layout=compact&bg_color=0D0B18&title_color=A78BFA&text_color=E9D5FF&border_color=6D28D9" alt="Most Used Languages" />
+  <img src="https://img.shields.io/badge/BUILDING-INTELLIGENT_SOLUTIONS-6D28D9?style=for-the-badge" alt="Building intelligent solutions" />
 </div>
 
 ---
-
-<h2 align="center">📊 Contribution Activity</h2>
-
-<div align="center">
-  <a href="https://github.com/pritam-khadda">
-    <img src="https://ghchart.rshah.org/8B5CF6/pritam-khadda" width="100%" alt="GitHub Contribution Calendar" />
-  </a>
-</div>
-
----
-
-<h2 align="center">🤝 Connect With Me</h2>
-
-<div align="center">
-  <a href="https://github.com/pritam-khadda">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/pritam-khadda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CODE-6D28D9?style=for-the-badge" alt="Code" />
-  <img src="https://img.shields.io/badge/LEARN-0891B2?style=for-the-badge" alt="Learn" />
-  <img src="https://img.shields.io/badge/INNOVATE-8B5CF6?style=for-the-badge" alt="Innovate" />
-
-  <h3>💜 Keep Learning. Keep Building. Keep Growing.</h3>
-  <i>Turning ideas into intelligent solutions, one project at a time. 🚀</i>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="Footer" />
