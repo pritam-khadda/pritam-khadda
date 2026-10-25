@@ -5,7 +5,7 @@
   <h3>💜 Aspiring Software Developer | AI/ML & Computer Vision Enthusiast</h3>
 
   <a href="https://github.com/pritam-khadda">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Building+Intelligent+Applications+with+Python+%26+Computer+Vision;AI%2FML+%26+Computer+Vision+Enthusiast;Turning+ideas+into+intelligent+solutions;Keep+Learning.+Keep+Building.+Keep+Growing." alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=Building+Intelligent+Applications;AI%2FML+%26+Computer+Vision+Enthusiast;Python+%7C+OpenCV+%7C+MediaPipe;Turning+ideas+into+intelligent+solutions;Keep+Learning.+Keep+Building.+Keep+Growing." alt="Typing animation" />
   </a>
   <br/><br/>
 
