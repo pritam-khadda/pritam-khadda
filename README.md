@@ -11,6 +11,8 @@
 
   <img src="https://komarev.com/ghpvc/?username=pritam-khadda&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-06B6D4?style=for-the-badge" alt="Artificial Intelligence" />
+  <br/><br/>
+  <i>💭 "Teaching machines to see, one frame at a time."</i>
 </div>
 
 ---
@@ -25,6 +27,20 @@
     <tr><td>🐍</td><td>Building projects using Python, OpenCV, Flask and MediaPipe</td></tr>
     <tr><td>📊</td><td>Learning data analysis with NumPy and Pandas</td></tr>
     <tr><td>🎯</td><td>Working toward becoming an AI/ML Engineer</td></tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">🎯 What I'm Up To</h2>
+
+<div align="center">
+  <table>
+    <tr><td>🔭</td><td><b>Currently building:</b> Face Recognition Attendance system</td></tr>
+    <tr><td>📚</td><td><b>Currently learning:</b> Deep Learning, CNNs and model deployment</td></tr>
+    <tr><td>🤝</td><td><b>Open to:</b> Collaborations on AI / Computer Vision projects</td></tr>
+    <tr><td>🌟</td><td><b>Goal:</b> Ship projects that solve real problems with AI</td></tr>
+    <tr><td>💡</td><td><b>Fun fact:</b> I teach computers to read hand gestures 🤟</td></tr>
   </table>
 </div>
 
@@ -121,10 +137,10 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center">📊 Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritam-khadda&bg_color=0D0B18&color=A78BFA&line=8B5CF6&point=06B6D4&area=true&area_color=6D28D9&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -150,3 +166,5 @@
   <h3>💜 Keep Learning. Keep Building. Keep Growing.</h3>
   <i>Turning ideas into intelligent solutions, one project at a time. 🚀</i>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="footer" />
